@@ -1,3 +1,3 @@
 #preview
 
-(https://short-notes.netlify.app/)
+[Open app](https://short-notes.netlify.app/)
